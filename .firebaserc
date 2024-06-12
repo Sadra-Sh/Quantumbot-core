@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "quantumbot-core-fedd6",
+    "test": "quantumbot-core-fedd6",
+    "project": "quantumbot-core-fedd6"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
